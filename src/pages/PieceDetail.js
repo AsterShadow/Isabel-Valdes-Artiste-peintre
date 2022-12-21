@@ -8,8 +8,6 @@ const PieceDetail = ({ pieces }) => {
 
   const { id } = useParams();
 
-
-
   return (
     <div>
       {pieces.map((piece, index) => (

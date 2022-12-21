@@ -26,7 +26,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home pieces={pieces}/>}/>
         <Route path="/galerie/:id" element={<PieceDetail pieces={pieces}/>}/>
-        <Route path="/artiste" element={<ArtisteDetails />}/>
+        <Route path="/about" element={<ArtisteDetails />}/>
       </Routes>
       <Footer />
 

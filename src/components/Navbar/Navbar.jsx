@@ -23,7 +23,7 @@ const Navbar = () => {
                     <a href={'/'}>Galerie</a>
                 </li>
                 <li className='app__flex p-text'>
-                    <a href={'/Artiste'}>Artiste</a>
+                    <a href={'/about'}>Artiste</a>
                 </li>
                 <li className='app__flex p-text'>
                     <a href='https://www.etsy.com/ca-fr/shop/IsabelValdesArt' target="_blank" rel="noopener noreferrer">Boutique</a>
@@ -44,7 +44,7 @@ const Navbar = () => {
                                     <a href={'/'}>Galerie</a>
                                 </li>
                                 <li className='p-text'>
-                                    <a href={'/Artiste'}>Artiste</a>
+                                    <a href={'#/about'}>Artiste</a>
                                 </li>
                                 <li className='p-text'>
                                     <a href='https://www.etsy.com/ca-fr/shop/IsabelValdesArt' target="_blank" rel="noopener noreferrer">Boutique</a>

@@ -13,7 +13,7 @@ const About = () => {
         </div>
         <div className="about-col">
           <div className="about-desc">
-            <p className='p-text bold-text'>
+            <p className='p-text bold-text content-title'>
               Bienvenue à toi sur mon site web!
             </p>
             <p className='p-text'>
@@ -30,7 +30,7 @@ const About = () => {
               Un jour, j'ai sorti tous mes pinceaux et mes tubes de peinture et j'ai accroché une grande toile de coton sur un mur dans mon salon. J'ai mis de la musique tribale et je me suis mise à danser. J'ai danser jusqu'à me rendre dans un espèce d'état hypnotique... Et là j'ai commencé à peindre, à laisser aller les mouvements librement, à me laisser porter par ce qui voulait s'exprimer de moi...sur la toile. Mon premier atelier est né ce jour là ainsi que le plus grand coup de foudre de ma vie!
             </p>
             <p className='p-text'>
-              Je touchait (enfin!) à ce qui est, depuis ce jour, ma forme d'expression artistique de prédilection : <span>la peinture abstraite-intuitive-expressive</span>:) haute en couleurs!!!
+              Je touchait (enfin!) à ce qui est, depuis ce jour, ma forme d'expression artistique de prédilection : <span>la peinture abstraite-intuitive-expressive</span>, haute en couleurs!!!
             </p>
             <p className='p-text'>
               Peindre est devenue une nécessité, une grâce indicible! Un moyen de communion avec mon intérieur et de communication avec l'extérieur.

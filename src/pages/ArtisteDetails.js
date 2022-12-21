@@ -3,7 +3,10 @@ import { About } from '../container';
 
 const ArtisteDetails = () => {
   return (
-    <About />
+    <>
+      <About />
+    </>
+    
 
   )
 }
